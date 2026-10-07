@@ -1,6 +1,6 @@
 # Ulises De la Cruz
 
-**Applied AI Architect · Agentic Systems & AI Governance**
+**Applied AI Architect · Agentic Systems & AI Governance**<br>
 Founder & CEO, [XFactor Academy](https://www.xfactoracademy.io) · Mexico · Spanish & English
 
 I design, ship and operate production AI systems. Most of my code lives in private repositories because it runs real products, so this page describes what is behind the activity graph.
